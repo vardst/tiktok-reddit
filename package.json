@@ -1,0 +1,24 @@
+{
+  "name": "redditvideomakerbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elebumm/RedditVideoMakerBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elebumm/RedditVideoMakerBot/issues"
+  },
+  "homepage": "https://github.com/elebumm/RedditVideoMakerBot#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.22.2"
+  }
+}
